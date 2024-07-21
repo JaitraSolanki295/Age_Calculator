@@ -84,10 +84,11 @@ p{
     font-weight: 500;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:643px) {
     .agecal_container{
         width: 300px;
         height: 200px;
+        margin-right: 2.5rem;
     }
 
     .agecal_container{
