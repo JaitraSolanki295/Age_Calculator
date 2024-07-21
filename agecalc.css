@@ -88,7 +88,7 @@ p{
     .agecal_container{
         width: 300px;
         height: 200px;
-        margin:auto;
+        margin-left:1rem;
     }
 
     .agecal_container{
